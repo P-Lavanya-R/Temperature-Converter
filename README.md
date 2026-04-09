@@ -27,9 +27,3 @@ A simple Python program to convert temperatures between Celsius and Fahrenheit. 
 
 - Python 3
 
-🙌 Acknowledgements
-
-- Great beginner project for learning Python
-- Helps understand basic mathematical operations
-
----
